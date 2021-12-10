@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AnupBagade
 - 👀 I’m interested in web apps and API development.
-- 🌱 I’m currently learning react and django REST.
+- 🌱 I’m currently building application using react and django REST.
 - 💞️ I’m looking to collaborate on API or web development projects.
 - 📫 How to reach me - anup.blearner@gmail.com
 
